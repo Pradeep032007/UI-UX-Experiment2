@@ -39,7 +39,8 @@ To Design a Basic Mobile and Web Layout for an Existing Case Study
  Maintain simplicity for scalability across devices.
  Export in various formats (SVG, PNG) for multiple use cases.
 ~~~
-<img width="1920" height="1140" alt="login page" src="https://github.com/user-attachments/assets/c1659f52-53d7-404d-ba10-1185533b8653" />
+<img width="485" height="689" alt="login page" src="https://github.com/user-attachments/assets/8dc82ee9-a4ab-46e4-b0ef-54c0ce8106a1" />
+
 
 
 
